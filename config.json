@@ -8,7 +8,7 @@
   "servers": [
 
     {
-      "name": "Server 1",
+      "name": "new name",
       "url":
         "https://google.com"
     },

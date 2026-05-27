@@ -1,16 +1,16 @@
 {
   "messenger":
-    "https://google.com",
+    "https://chat.openai.com",
 
   "videoTutorial":
-    "https://google.com",
+    "https://chat.openai.com",
 
   "servers": [
 
     {
       "name": "Server 1",
       "url":
-        "https://google.com"
+        "https://chat.openai.com"
     },
 
     {

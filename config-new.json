@@ -8,23 +8,23 @@
   "servers": [
     {
       "name": "Server 1",
-      "url": "https://mtl-app.com/register?code=66EECEC9A44EB745"
+      "url": "https://mtl-app.com/register?code=66EECEC9A44EB745&t=94829"
     },
     {
       "name": "Server 2",
-      "url": "https://mtl-pro.com/register?code=66EECEC9A44EB745"
+      "url": "https://mtl-pro.com/register?code=66EECEC9A44EB745&t=92753"
     },
     {
       "name": "Server 3",
-      "url": "https://mtl.onl/register?code=66EECEC9A44EB745"
+      "url": "https://mtl.onl/register?code=66EECEC9A44EB745&t=82479"
     },
     {
       "name": "Server 4",
-      "url": "https://mtl.mobi/register?code=66EECEC9A44EB745"
+      "url": "https://mtl.mobi/register?code=66EECEC9A44EB745&t=95383"
     },
     {
       "name": "Server 5",
-      "url": "https://lottomatik.co/register?code=66EECEC9A44EB745"
+      "url": "https://lottomatik.co/register?code=66EECEC9A44EB745&t=18472"
     }
   ]
 }

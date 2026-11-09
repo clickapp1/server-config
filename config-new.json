@@ -1,6 +1,6 @@
 {
-  "popupMessage": "Kung may Problema o Tanong.\n\ni-click po yang \"Chat Messenger\" sa baba para ma direct chat kayo sa aming messenger at ma assist namin kayo. Thank you.",
-
+  "popupMessage": "<span style='color:red;'>Announcement!</span><br><br>Kung may Problema o Tanong.<br><br>i-click po yang \"Chat Messenger\" sa baba para ma direct chat kayo sa aming messenger at ma assist namin kayo. Thank you.",
+  
   "messenger": "https://m.me/onlinetayaanchat",
 
   "videoTutorial": "https://drive.google.com/drive/folders/12QL5w7xX1yK2qkqnz0eoFtXEndOTX-T4",
